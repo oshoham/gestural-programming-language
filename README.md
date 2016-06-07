@@ -1,19 +1,19 @@
 # Hello World
 
-<img src="gestures/print.png" width="60"/>
-<img src="gestures/string-delimiter.gif" width="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_h.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_e.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_o.svg" height="60">
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_space.svg" height="60">
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_w.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_o.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_r.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
-<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_d.svg" height="60"/>
-<img src="gestures/string-delimiter.gif" height="60"/>
+<img title="print" src="gestures/print.png" width="60"/>
+<img title="start string" src="gestures/string-delimiter.gif" width="60"/>
+<img title="h" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_h.svg" height="60"/>
+<img title="e" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_e.svg" height="60"/>
+<img title="l" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
+<img title="l" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
+<img title="o" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_o.svg" height="60">
+<img title="space" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_space.svg" height="60">
+<img title="w" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_w.svg" height="60"/>
+<img title="o" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_o.svg" height="60"/>
+<img title="r" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_r.svg" height="60"/>
+<img title="l" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
+<img title="d" src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_d.svg" height="60"/>
+<img title="end string" src="gestures/string-delimiter.gif" height="60"/>
 
 # Print Numbers from 1 to 10
 
