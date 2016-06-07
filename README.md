@@ -9,15 +9,15 @@ In designing this language, I've drawn on ASL (American Sign Language) for finge
 
 <img src="gestures/print.png" width="60"/>
 <img src="gestures/string-delimiter.gif" width="60"/>
-<img src="gestures/h.png" height="60"/>
-<img src="gestures/e.png" height="60"/>
-<img src="gestures/l.png" height="60"/>
-<img src="gestures/l.png" height="60"/>
-<img src="gestures/o.png" height="60">
+<img src="gestures/s_h.png" height="60"/>
+<img src="gestures/s_e.png" height="60"/>
+<img src="gestures/s_l.png" height="60"/>
+<img src="gestures/s_l.png" height="60"/>
+<img src="gestures/s_o.png" height="60">
 \**pause*\*
-<img src="gestures/w.png" height="60"/>
-<img src="gestures/o.png" height="60"/>
-<img src="gestures/r.png" height="60"/>
-<img src="gestures/l.png" height="60"/>
-<img src="gestures/d.png" height="60"/>
+<img src="gestures/s_w.png" height="60"/>
+<img src="gestures/s_o.png" height="60"/>
+<img src="gestures/s_r.png" height="60"/>
+<img src="gestures/s_l.png" height="60"/>
+<img src="gestures/s_d.png" height="60"/>
 <img src="gestures/string-delimiter.gif" height="60"/>
