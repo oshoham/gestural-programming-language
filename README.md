@@ -9,7 +9,7 @@
 * **string-delimiter (start and end a string)**: air quotes
 * **true**: thumbs up
 * **false**: thumbs down
-* **define a function**: frame an invisible object with your arms/hands
+* **define a function**: frame an invisible object with your arms/hands (like [the aliens guy](http://i.imgur.com/h5Wagt2.jpg))
 * **call a function**: make a "phone symbol" with your right hand by extending your thumb and pinky, and hold it up to your right ear
 * **alphanumeric characters**: [flag semaphore](https://en.wikipedia.org/wiki/Flag_semaphore)
 
