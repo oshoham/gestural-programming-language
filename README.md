@@ -32,4 +32,5 @@
 
 # Some Thoughts
 
-* Flag semaphore is not very intuitive, especially when you're trying to use it to write programs. In particular, the re-use of the same movements/symbols for letters and numbers keeps the character space small, but increases the length of messages/programs that involve both.
+* One goal of this language is to make the gestures/movements/symbols for complex actions such as "loop" and "print" intuitive for the human reader/viewer to grasp.
+* Maybe ironically, using flag semaphore for alphanumeric characters is not very intuitive. In particular, the re-use of the same movements/symbols for letters and numbers keeps the character space small, but increases the length of messages/programs that involve both.
