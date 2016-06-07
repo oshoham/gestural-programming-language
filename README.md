@@ -7,7 +7,7 @@
 <img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
 <img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_l.svg" height="60"/>
 <img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_o.svg" height="60">
-\**pause*\*
+<img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_space.svg" height="60">
 <img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_w.svg" height="60"/>
 <img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_o.svg" height="60"/>
 <img src="https://cdn.rawgit.com/oshoham/gestural-programming-language/master/gestures/s_r.svg" height="60"/>
