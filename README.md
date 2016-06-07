@@ -48,3 +48,4 @@
 * One goal of this language was to make the gestures/movements/symbols for complex actions such as "loop" and "print" intuitive for the human reader/viewer to grasp.
 * Using flag semaphore for alphanumeric characters did not feel very intuitive. In particular, the re-use of the same movements/symbols for letters and numbers keeps the character space small, but increases the length and visual confusion of messages/programs that involve both.
 * A compiler/interpreter for this language could have right-handed and left-handed modes.
+* Inspired by [bodyfuck](http://esoteric.codes/post/124835785498/bodyfuck-gestural-code).
